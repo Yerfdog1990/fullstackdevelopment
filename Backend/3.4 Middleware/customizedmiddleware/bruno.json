@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "customizedmiddleware",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
